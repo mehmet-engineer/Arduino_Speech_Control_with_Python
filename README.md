@@ -1,6 +1,6 @@
-# Python Sesli Komut ile Arduino Kontrol Yazılımı
-Mar 2021 – Nis 2021
+# Arduino Control Software with Python Voice Command
+March 2021 – April 2021
 
-Bu uygulamada Laptop ile Arduino'nun UART protokolü üzerinden seri haberleşmesi söz konusu. Sesli komutumuzu algılayan Python komutu anlamlandırıp Arduino'ya veri gönderiyor. Böylece hiç uğraş gerektirmeden istenilen LED'lerin kontrolü sağlanıyor. Komutların daha insansı bir hal alması için sesli asistanımıza bazı konuşma özellikleri ekledim. Böylece sohbet eşliğinde LED'lerin açılıp kapanabilmesi mümkün.
+In this application, serial communication between Laptop and Arduino is in question over UART protocol. Python detects our voice command, interprets the command and sends data to Arduino. Thus, the desired LEDs can be controlled without any effort. I added some speech features to our voice assistant to make commands more human. Thus, it is possible to turn the LEDs on and off with chat.
 
 https://drive.google.com/file/d/13o_KEyMrXNN1FffgWXABasLseWH0wiS7/view?usp=sharing
